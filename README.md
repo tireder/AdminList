@@ -1,2 +1,2 @@
 # AdminList
-A menu that displays online adnubs and VIPs on the server
+A menu that displays online admins and VIPs on the server
